@@ -1,5 +1,5 @@
 ## Hey there, I'm Nicolas
-I make random stuff and websites for fun. If you need anything, email me, it's in my bio. :)
+I make random stuff and websites for fun.
 
 ## I Know These Languages
 <p align="left">
